@@ -1,3 +1,4 @@
+a=int(input())
 b=a
 ans=0
 while a>0:
